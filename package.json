@@ -1,5 +1,5 @@
 {
-    "name": "cssstyle",
+    "name": "cssstyle-browserify",
     "description": "CSSStyleDeclaration Object Model implementation",
     "keywords": ["CSS", "CSSStyleDeclaration", "StyleSheet"],
     "version": "0.2.7",
